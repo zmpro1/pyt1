@@ -20,3 +20,4 @@ print("age is %d , name is %s" %(age,name))
 a,b = 1,2
 a,b = b,a
 print(a)
+print()
